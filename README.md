@@ -1,3 +1,6 @@
+# Shit dumper that was removed by our special someone, thought id reupload if you want to use it again rofl
+
+
 ### 3fT - api talker (synced to _point_12 last version)
 
 INFO:
