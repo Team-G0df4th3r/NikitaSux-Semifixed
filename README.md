@@ -17,3 +17,5 @@ how to run ?? its simple `node NikitaSux.js` in CMD
 
 _[note] why im sharing this ?? Cause i found better way to dump all data from their game :)_
 ```
+
+I like the part where he says 'to stop script kiddos' while he's the biggest skid i've seen in my life. rofl
