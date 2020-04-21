@@ -1,6 +1,7 @@
 # Shit dumper that was removed by our special someone, thought id reupload if you want to use it again rofl
 
-
+quote from our beloved creator the retard:
+```
 ### 3fT - api talker (synced to _point_12 last version)
 
 INFO:
@@ -15,3 +16,4 @@ how to run ?? its simple `node NikitaSux.js` in CMD
 
 
 _[note] why im sharing this ?? Cause i found better way to dump all data from their game :)_
+```
