@@ -1,6 +1,6 @@
 # Shit dumper that was removed by our special someone, thought id reupload if you want to use it again rofl
 
-quote from our beloved creator the retard:
+Quote from our beloved creator, the retard, who needs to take a few english classes imo.
 ```
 ### 3fT - api talker (synced to _point_12 last version)
 
@@ -19,3 +19,4 @@ _[note] why im sharing this ?? Cause i found better way to dump all data from th
 ```
 
 I like the part where he says 'to stop script kiddos' while he's the biggest skid i've seen in my life. rofl
+
