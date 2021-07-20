@@ -1,3 +1,5 @@
+# !!!IF YOU USE THIS YOU WILL MOSTLIKELY GET BANNED!!!
+
 # Shit dumper that was removed by our special someone, thought id reupload if you want to use it again rofl
 
 Quote from our beloved creator, the retard, who needs to take a few english classes imo.
